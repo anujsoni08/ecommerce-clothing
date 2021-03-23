@@ -11,11 +11,12 @@
     "react-router-dom": "5.2.0",
     "redux": "4.0.5",
     "redux-logger": "3.0.6",
+    "redux-persist": "^6.0.0",
     "reselect": "4.0.0"
   },
   "devDependencies": {
-    "react-scripts": "4.0.3",
-    "babel-jest": "26.6.3"
+    "babel-jest": "26.6.3",
+    "react-scripts": "4.0.3"
   },
   "resolutions": {},
   "scripts": {
